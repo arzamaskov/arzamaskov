@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m @arzamaskov
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -46,9 +45,12 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 🚧 **Мои задачи на ближайшее время:**
+--->
 <!-- TODO-IST:START -->
+<!--
 * [x] Прокачать свой профиль на Github
 * [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [ ] Создать свой первый проект на Github    
+ -->
 <!-- TODO-IST:END -->
---->
+
