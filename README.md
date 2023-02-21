@@ -13,7 +13,7 @@ Languages and Tools:
 
 My projects:
 
-* [Local environment for PHP using Docker Compose](https://github.com/arzamaskov/php-docker-compose)
+* [Local environment for PHP using Docker Compose](https://github.com/arzamaskov/docker-compose-php)
 * [Personal blog](https://arzamaskov.github.io)
 * [Configs and installation process](https://github.com/arzamaskov/environment)
 
