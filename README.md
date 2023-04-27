@@ -16,6 +16,7 @@ My projects:
 * [Local environment for PHP using Docker Compose](https://github.com/arzamaskov/docker-compose-php)
 * [Personal blog](https://arzamaskov.github.io)
 * [Configs and installation process](https://github.com/arzamaskov/environment)
+* [Notes - plugin for Neovim](https://github.com/arzamaskov/notes.nvim)
 
 
 <!---
