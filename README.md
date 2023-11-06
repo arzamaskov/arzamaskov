@@ -7,10 +7,10 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<a href="https://wakatime.com/@fbf7138f-754d-4ee5-8c00-f521dfacf4e9"><img src="https://wakatime.com/badge/user/fbf7138f-754d-4ee5-8c00-f521dfacf4e9.svg" alt="Total time coded since Jan 7 2023" /></a>
+All the time that I spent in IDEs since Jan 7 2023:
+  
+[![wakatime](https://wakatime.com/badge/user/fbf7138f-754d-4ee5-8c00-f521dfacf4e9.svg)](https://wakatime.com/@fbf7138f-754d-4ee5-8c00-f521dfacf4e9)
 
 My projects:
 
