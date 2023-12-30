@@ -1,5 +1,5 @@
-Hi, I'm Andrey, backend developer.
-
+Hi, my name is Andrey and I am a backend developer
+<!--
 
 Languages and Tools:
 
@@ -7,18 +7,17 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-All the time that I spent in IDEs since Jan 7 2023:
+-->
+That the time I spent in IDEs since Jan 7th 2023:
   
 [![wakatime](https://wakatime.com/badge/user/fbf7138f-754d-4ee5-8c00-f521dfacf4e9.svg)](https://wakatime.com/@fbf7138f-754d-4ee5-8c00-f521dfacf4e9)
 
-My projects:
+Recently projects:
 
 * [Local environment for PHP using Docker Compose](https://github.com/arzamaskov/docker-compose-php)
 * [Personal blog](https://arzamaskov.github.io)
 * [Configs and installation process](https://github.com/arzamaskov/environment)
 * [Notes - plugin for Neovim](https://github.com/arzamaskov/notes.nvim)
-
 
 <!---
 - 👋 Hi, I’m @arzamaskov
