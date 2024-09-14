@@ -11,14 +11,14 @@ Languages and Tools:
 That the time I spent in IDEs since Jan 7th 2023:
   
 [![wakatime](https://wakatime.com/badge/user/fbf7138f-754d-4ee5-8c00-f521dfacf4e9.svg)](https://wakatime.com/@fbf7138f-754d-4ee5-8c00-f521dfacf4e9)
-
+<!--
 Recently projects:
 
 * [Local environment for PHP using Docker Compose](https://github.com/arzamaskov/docker-compose-php)
 * [Personal blog](https://arzamaskov.github.io)
 * [Configs and installation process](https://github.com/arzamaskov/environment)
 * [Notes - plugin for Neovim](https://github.com/arzamaskov/notes.nvim)
-
+--->
 <!---
 - 👋 Hi, I’m @arzamaskov
 - 👀 I’m interested in ...
