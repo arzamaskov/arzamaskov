@@ -1,4 +1,4 @@
-Hi, my name is Andrey and I'm a backend developer. Creator of [runtracker.ru](https://runtracker.ru).
+Hi, my name is Andrey and I'm a backend developer.
 <!--
 
 Languages and Tools:
@@ -14,6 +14,8 @@ That's the time I've spent in IDEs since Jan. 7th 2023:
 <!--
 Recently projects:
 
+ Creator of [runtracker.ru](https://runtracker.ru).
+ 
 * [Local environment for PHP using Docker Compose](https://github.com/arzamaskov/docker-compose-php)
 * [Personal blog](https://arzamaskov.github.io)
 * [Configs and installation process](https://github.com/arzamaskov/environment)
