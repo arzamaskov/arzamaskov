@@ -1,4 +1,4 @@
-Hi, my name is Andrey and I'm a backend developer.
+Hi, my name is Andrey and I'm a software engineer.
 <!--
 
 Languages and Tools:
